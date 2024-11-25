@@ -75,7 +75,7 @@ python -m unittest discover -s tests -p "test_case_*.py"
 
 ## Результат юнит-тестов программы
 
-![unittests](target_3/images/Screenshot 2024-11-26 021402.png)
+![unittests](https://github.com/FindTheRhythm/Homework-3-Configuration-management/blob/49d472ad80705797081646671858c015654d00d9/target_3/images/Screenshot%202024-11-26%20021402.png)
 
 ## Результат работы программы
 
