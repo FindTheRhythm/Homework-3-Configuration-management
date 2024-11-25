@@ -75,7 +75,7 @@ python -m unittest discover -s tests -p "test_case_*.py"
 
 ## Результат юнит-тестов программы
 
-![]()
+![unittests](target_3/images/Screenshot 2024-11-26 021402.png)
 
 ## Результат работы программы
 
