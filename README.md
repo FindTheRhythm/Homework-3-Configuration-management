@@ -81,12 +81,12 @@ python -m unittest discover -s tests -p "test_case_*.py"
 
 **Вариант 1**
 
-![]()
+![](https://github.com/FindTheRhythm/Homework-3-Configuration-management/blob/e40fa0ae9a7d1633e994c3c24b126e7d339c6ad7/target_3/images/Screenshot%202024-11-26%20022842.png)
 
-![]()
+![](https://github.com/FindTheRhythm/Homework-3-Configuration-management/blob/e40fa0ae9a7d1633e994c3c24b126e7d339c6ad7/target_3/images/Screenshot%202024-11-26%20022907.png)
 
 **Вариант 2**
 
-![]()
+![](https://github.com/FindTheRhythm/Homework-3-Configuration-management/blob/e40fa0ae9a7d1633e994c3c24b126e7d339c6ad7/target_3/images/Screenshot%202024-11-26%20023513.png)
 
-![]()
+![](https://github.com/FindTheRhythm/Homework-3-Configuration-management/blob/e40fa0ae9a7d1633e994c3c24b126e7d339c6ad7/target_3/images/Screenshot%202024-11-26%20023453.png)
